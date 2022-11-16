@@ -1,1 +1,1 @@
-A simple UNIX command interpreter, collaborated by Emmanuel Addinnu
+A simple UNIX command interpreter, collaborated by Emmanuel Adinnu
