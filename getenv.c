@@ -2,12 +2,11 @@
 /**
 * _getenv - prints the environment variable
 * @name: the variable
-* Returns - pointer to (env_name + 1), or NULL if not found
+* Return: pointer to (env_name + 1), or NULL if not found
 */
 
 char *_getenv(const char *name)
 {
-	extern char **environ; /*Access to the environment variables */
 	char **env_ptr = environ;
 	char *env_name;
 	const char *name_ptr;

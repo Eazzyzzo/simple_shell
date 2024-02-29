@@ -1,7 +1,7 @@
 #include "shell.h"
 /**
  * read_string - records the input
- * Returns - the inputed string
+ * Return: the inputed string
  *
  */
 
